@@ -1,0 +1,34 @@
+# === Maven ===
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# === IntelliJ IDEA ===
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# === OS generated ===
+.DS_Store
+Thumbs.db
+
+# === Logs ===
+*.log
+
+# === Environment & Credentials ===
+*.env
+*.local
+application.properties
+
+# === Backup & Temporary files ===
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# === Test Reports ===
+/surefire-reports/
+
+# === VS Code (if used) ===
+.vscode/
